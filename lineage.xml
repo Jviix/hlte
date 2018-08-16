@@ -1,0 +1,10 @@
+ "hlte": [
+        "android_device_qcom_common",
+        "android_device_samsung_hlte",
+        "android_device_samsung_hlte-common",
+        "android_device_samsung_msm8974-common",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_msm8974",
+        "android_packages_apps_FlipFlap",
+"android_packages_resources_devicesettings"
