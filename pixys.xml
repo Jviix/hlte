@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Jviix/device_samsung_hlte" path="device/samsung/hlte" remote="github" revision="pixys" />
+  <project name="Jviix/device_samsung_hlte-common" path="device/samsung/hlte-common" remote="github" revision="pixys" />
+  <project name="Jviix/device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="pixys" />
+  <project name="Jviix/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="pixys" />
+  <project name="Jviix/hardware_samsung" path="hardware/samsung" remote="github" revision="pixys" />
+  <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="Jviix/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pie" />
+</manifest>
