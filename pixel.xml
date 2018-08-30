@@ -9,7 +9,7 @@
   <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="Jviix/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pie" />
-  <project name="LineageOS/android_device_samsung_hltetmo" path="device/samsung/hltetmo" remote="github" revision="lineage-16.0" />
-  <project name="LineageOS/android_device_samsung_hltechn" path="device/samsung/hltechn" remote="github" revision="lineage-16.0" />
-  <project name="LineageOS/android_device_samsung_hltekor" path="device/samsung/hltekor" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" remote="github" revision="lineage-16.0-caf-8974" />
+  <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" remote="github" revision="lineage-16.0-caf-8974" />
+  <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="lineage-16.0-caf-8974" />
 </manifest>
