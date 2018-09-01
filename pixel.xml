@@ -12,18 +12,18 @@
   <project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" remote="github" revision="lineage-16.0-caf-8974" />
   <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" remote="github" revision="lineage-16.0-caf-8974" />
   <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="lineage-16.0-caf-8974" />
-  <remove-project project name="packages_apps_Bluetooth" />
-  <remove-project project name="packages_apps_Camera2" />
-  <remove-project project name="packages_apps_CarrierConfig" />
-  <remove-project project name="packages_apps_CellBroadcastReceiver" />
-  <remove-project project name="packages_apps_DocumentsUI" />
-  <remove-project project name="packages_apps_Nfc" />
-  <remove-project project name="packages_apps_Settings" />
-  <remove-project project name="packages_providers_DownloadProvider" />
-  <remove-project project name="packages_providers_MediaProvider" />
-  <remove-project project name="packages_services_Telecomm" />
-  <remove-project project name="packages_services_Telephony" />
-  <remove-project project name="hardware_qcom_keymaster" />
+  <remove-project name="packages_apps_Bluetooth" />
+  <remove-project name="packages_apps_Camera2" />
+  <remove-project name="packages_apps_CarrierConfig" />
+  <remove-project name="packages_apps_CellBroadcastReceiver" />
+  <remove-project name="packages_apps_DocumentsUI" />
+  <remove-project name="packages_apps_Nfc" />
+  <remove-project name="packages_apps_Settings" />
+  <remove-project name="packages_providers_DownloadProvider" />
+  <remove-project name="packages_providers_MediaProvider" />
+  <remove-project name="packages_services_Telecomm" />
+  <remove-project name="packages_services_Telephony" />
+  <remove-project name="hardware_qcom_keymaster" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom,qcom_keymaster,pdk-qcom" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" groups="pdk-fs" />
