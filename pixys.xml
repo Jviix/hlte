@@ -10,5 +10,8 @@
   <project name="Jviix/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pixys" />
   <project name="Jviix/device_samsung_hltetmo" path="device/samsung/hltetmo" remote="github" revision="pixys" />
   <project name="Jviix/device_samsung_hltechn" path="device/samsung/hltechn" remote="github" revision="pixys" />
-  <project name="Jviix/device_samsung_hltekor" path="device/samsung/hltekor" remote="github" revision="pixys" />
+  <project name="Jviix/device_samsung_hltekor" path="device/samsung/hltekor" remote="github" revision="pixys" /> 
+  <project name="Jviix/build_stuff" path="jviix" remote="github" revision="pixys">
+      <linkfile src="picks.sh" dest="picks.sh" />
+  </project>
 </manifest>
