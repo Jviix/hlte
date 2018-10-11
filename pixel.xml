@@ -11,7 +11,7 @@
   <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="Jviix/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pie" />
-  <project name="Jviix/build_stuff"path="jviix" remote="github" revision="pie">
+  <project name="Jviix/build_stuff" path="jviix" remote="github" revision="pie">
     <linkfile src="picks.sh" dest="picks.sh" />
   </project>
 </manifest>
