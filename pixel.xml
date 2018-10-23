@@ -10,9 +10,7 @@
   <project name="Jviix/hardware_samsung" path="hardware/samsung" remote="github" revision="pie" />
   <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="Jviix/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pie" />+
-  <project path="packages/apps/WallpapersBReel2017" name="packages_apps_WallpapersBReel2017" remote="pixel-gitlab" clone-depth="1" />
-  <project path="packages/apps/WallpapersBReel2018" name="packages_apps_WallpapersBReel2018" remote="pixel-gitlab" clone-depth="1" />
+  <project name="Jviix/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pie" />
   <project name="Jviix/build_stuff" path="jviix" remote="github" revision="pie">
     <linkfile src="picks.sh" dest="picks.sh" />
   </project>
